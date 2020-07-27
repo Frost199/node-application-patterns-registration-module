@@ -1,7 +1,7 @@
 {
   "name": "membership",
   "version": "1.0.0",
-  "description": "",
+  "description": "A registration module for node application patterns",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -9,8 +9,16 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frost199/node-application-patterns-registration-module.git"
+  },
   "author": "Eleam Emmanuel",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frost199/node-application-patterns-registration-module/issues"
+  },
+  "homepage": "https://github.com/Frost199/node-application-patterns-registration-module#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.0.1"
