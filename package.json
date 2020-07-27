@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-watch": "mocha -w"
   },
   "repository": {
     "type": "git",
